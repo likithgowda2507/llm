@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP Manufacturing Multi Stream Controller UTMFGSOP11.pdf",
+  "table_type": "raci",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "SOP Manufacturing Multi Stream Controller UTMFGSOP11.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Production Order Creation | Production Manager | Production Manager | Procurement Lead | Stores, QC |\n| Material Planning | Store Supervisor | Procurement Lead | Production Manager | Stores |\n| FG Date Confirmation | Production Manager | Production Manager | Procurement Lead | Dispatch lead |\n| Material Issue | Store Supervisor | Production Manager | Production Manager | QC |\n| Production | Production Operator | Production Manager | - | Testing Engineer |\n| Assembly/Testing | Testing Engineer | Production Manager | QC Lead | Dispatch lead |\n| Quality Check | Quality Engineer | Production Manager | Testing Engineer | Guidant Quality |\n| Close Production Order | Production Operator | Production Manager | QC Lead | Purchase lead and Finance |"
+}

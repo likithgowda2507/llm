@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP-Procurement (PRO) - UTSFPROSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Procurement_PRO_-_UTSFPROSOP",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP-Procurement (PRO) - UTSFPROSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [
+        7
+      ],
+      "sources": [
+        "SOP-Procurement (PRO) - UTSFPROSOP.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

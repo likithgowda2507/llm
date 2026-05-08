@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP Measuring Monitoring of Equipment UTMFGSOP14.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Measuring_Monitoring_of_Equipment_UTMFGSOP14",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP Measuring Monitoring of Equipment UTMFGSOP14.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP Measuring Monitoring of Equipment UTMFGSOP14.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

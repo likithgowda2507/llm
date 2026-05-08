@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP-Computer System Validation (CSV)-UTSDCSVSOP.pdf",
+  "table_type": "raci",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "SOP-Computer System Validation (CSV)-UTSDCSVSOP.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Validation Planning | PM | DM | Customer | BU Head |\n| Requirement Specification | Project Team | PM | Customer | BU Head, DM |\n| Design and Development | Project Team | PM | BU Head, DM | Customer |\n| Installation Qualification | Project Team | PM | BU Head, DM | Customer |\n| Operational Qualification | Project Team | PM | BU Head, DM | Customer |\n| Performance Qualification | Project Team | PM | BU Head, DM | Customer |\n| Validation Report and System Release | Project Team | PM | BU Head, DM | Customer |\n| Post- Validation Activities | Project Team, Customer | Project Manager | BU Head, DM | Quality |"
+}

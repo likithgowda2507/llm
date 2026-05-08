@@ -1,0 +1,14 @@
+{
+  "pdf": "SOP-Order to Cash UTSMOCSOP.pdf",
+  "table_type": "raci",
+  "pages": [
+    5,
+    6
+  ],
+  "sources": [
+    "SOP-Order to Cash UTSMOCSOP.pdf (page 5)",
+    "SOP-Order to Cash UTSMOCSOP.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 5, 6 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Order Placement | Sales Team | Respective regions sales head | Delivery Head | Revenue Team/PMO/Delivery Head |\n| Order Management | Project Manager | Delivery Head | Revenue Team/PMO/PM | Various Stakeholders |\n| Order fulfillment | Project Manager | Delivery Head | Delivery Head | BU Head |\n| Invoicing the Customer | Revenue Team | Director Finance | Project Manager | Project Manager |\n| Collection | Accounts Receivable Team / Sales Team | Respective regions sales head | Sales Team/BU Head | Various Stakeholders |\n| Recording Transaction | Accounts Receivable Team | Director Finance | Director Finance | CFO |"
+}

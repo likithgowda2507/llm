@@ -1,0 +1,26 @@
+{
+  "pdf": "1. SOP - Security Requirement UTIECSOP01.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\1._SOP_-_Security_Requirement_UTIECSOP01",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "1. SOP - Security Requirement UTIECSOP01.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "1. SOP - Security Requirement UTIECSOP01.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

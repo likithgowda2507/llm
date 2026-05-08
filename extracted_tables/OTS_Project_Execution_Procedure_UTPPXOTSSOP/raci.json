@@ -1,0 +1,18 @@
+{
+  "pdf": "OTS Project Execution Procedure UTPPXOTSSOP.pdf",
+  "table_type": "raci",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "sources": [
+    "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 11)",
+    "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 12)",
+    "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 13)",
+    "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 14)"
+  ],
+  "error": "",
+  "table": "--- Page 11, 12, 13, 14 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Review proposal, estimation, PO/WA, RFQ/Requirement Document | PM | OTS Lead | Modeling Engineer | DCS/ System Lead, Customer |\n| Assess modeling scope (simplified vs. detailed) | PM | OTS Lead | Modeling Engineer | DCS/ System Lead, Customer |\n| Prepare execution methodology presentation & documentation | PM | OTS Lead | Modeling Engineer | DCS/ System Lead, Customer |\n| Prepare R&O/RAIL document | PM | Modeling Engineer | OTS Lead | Customer |\n| MarkP&IDs | PM | Modeling Engineer | OTS Lead | Customer |\n| Identify special modeling needs | PM | Modeling Engineer | OTS Lead | Customer |\n| Discuss scope, validation methods, and architecture | PM | OTS Lead | Modeling Engineer | DCS/ System Lead, Customer |\n| Finalize data requirements and cut-off dates | PM | OTS Lead | Modeling Engineer | DCS/ System Lead, Customer |\n| Review and agree on fidelity and performance criteria | PM | OTS Lead | Modeling Engineer | DCS/ System Lead, Customer |\n| Confirm training needs and schedule | PM | OTS Lead | Modeling Engineer | DCS/ System Lead, Customer |\n| Maintaina risk register | PM | OTS Lead | Modeling Engineer | DCS/ System Lead, Customer |\n| Prepare component slate using HMB | OTS Lead | Modeling Engineer | \u2014 | PM, Customer |\n| Develop model using PFDs | OTS Lead | Modeling Engineer | \u2014 | PM, Customer |\n| Create deviation sheet and get customer approval | OTS Lead | Modeling Engineer | \u2014 | PM, Customer |\n| Maintain modeling guidelines | OTS Lead | Modeling Engineer | \u2014 | DCS/ System Lead, Customer |\n| Document PAM allocation | OTS Lead | OTS Lead, PM | Modeling Engineer | DCS/ System Lead, Customer |"
+}

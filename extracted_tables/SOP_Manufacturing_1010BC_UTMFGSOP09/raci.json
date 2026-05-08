@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP Manufacturing 1010BC UTMFGSOP09.pdf",
+  "table_type": "raci",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "SOP Manufacturing 1010BC UTMFGSOP09.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Production Order Creation | Production Supervisor | Production Manager | Production Manager |  |\n| Material Planning | Store Supervisor | SCM | SCM |  |\n| FG Date Confirmation | Production Supervisor | Production Manager | Production Manager |  |\n| Material Issue | Store Supervisor | Production Manager | Production Manager |  |\n| Production | Production Operator | Production Supervisor | Production Supervisor |  |\n| Assembly/Testing | Production Operator | Production Supervisor | Production Supervisor |  |\n| Quality Check | Quality Engineer | Production Manager/ Supervisor | Production Manager/ Supervisor |  |\n| Close Production Order | Production Supervisor | Production Manager | Production Manager |  |"
+}

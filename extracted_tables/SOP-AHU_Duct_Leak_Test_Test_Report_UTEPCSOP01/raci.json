@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP-AHU Duct Leak Test & Test Report UTEPCSOP01.pdf",
+  "table_type": "raci",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "SOP-AHU Duct Leak Test & Test Report UTEPCSOP01.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Preparation of duct section for testing | Site Engineer/ Installer | Project Manager | QA/QC Engineer | Client Representative |\n| Conducting duct leakage test | QA/QC Engineer | Project Manager | Site Engineer | Client Representative |\n| Recording and reviewing test results | QA/QC Engineer | QA/QC Engineer | Site Engineer | Client Representative |\n| Corrective actions for leakage (repairs & sealing) | installer / Site Engineer | Project Manager | QA/QC Engineer | Client Representative |\n| Final approval of test results | QA/QC Engineer | Project Manager | Client Representative | All Stakeholders |"
+}

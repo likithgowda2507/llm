@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP - Talent Acquisition UTSFTMPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Talent_Acquisition_UTSFTMPSOP",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP - Talent Acquisition UTSFTMPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP - Talent Acquisition UTSFTMPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

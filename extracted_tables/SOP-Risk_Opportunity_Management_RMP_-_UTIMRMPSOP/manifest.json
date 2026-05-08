@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP-Risk & Opportunity Management(RMP) - UTIMRMPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Risk_Opportunity_Management_RMP_-_UTIMRMPSOP",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP-Risk & Opportunity Management(RMP) - UTIMRMPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP-Risk & Opportunity Management(RMP) - UTIMRMPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

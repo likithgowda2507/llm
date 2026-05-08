@@ -1,0 +1,34 @@
+{
+  "pdf": "Stage Gate Process SOP UTSMSGPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\Stage_Gate_Process_SOP_UTSMSGPSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "sources": [
+        "Stage Gate Process SOP UTSMSGPSOP.pdf (page 6)",
+        "Stage Gate Process SOP UTSMSGPSOP.pdf (page 7)",
+        "Stage Gate Process SOP UTSMSGPSOP.pdf (page 8)",
+        "Stage Gate Process SOP UTSMSGPSOP.pdf (page 9)",
+        "Stage Gate Process SOP UTSMSGPSOP.pdf (page 10)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        12
+      ],
+      "sources": [
+        "Stage Gate Process SOP UTSMSGPSOP.pdf (page 12)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP-Incoming Goods Inspection UTPSIGISOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    8
+  ],
+  "sources": [
+    "SOP-Incoming Goods Inspection UTPSIGISOP.pdf (page 8)"
+  ],
+  "error": "",
+  "table": "--- Page 8 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| External Suppliers/Vendors | Invoice/BOM | Incoming Goods | Packing List | Goods Received | Admin Team |\n| Admin Team | Goods Received | Initial & Detailed Visual Inspection | Accuracy of received Goods | Goods handover to Department | Project Teams |\n| Inspection personnel | Initial Inspection Report | Report Non- Conforming Materials | Measurement & Testing | Detailed Inspection Report | Project Manager |\n| Technical Team | Detailed Inspection Report | Corrective Action Required | Non- Conformities report | Corrective Actions/ Rejections | Project Manager |\n| Project Manager | Corrective Actions | Approved Goods | Rework or Replacement | Final Approval & Acceptance | Storage House |\n| Technical Team | Goods Received | Storage | Placement of Goods | Storage location | Project Team |"
+}

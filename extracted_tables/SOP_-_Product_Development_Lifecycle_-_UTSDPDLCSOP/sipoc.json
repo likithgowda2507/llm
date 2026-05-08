@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    7
+  ],
+  "sources": [
+    "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf (page 7)"
+  ],
+  "error": "",
+  "table": "--- Page 7 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Stakehold ers, Market Research, Developm ent Team | Ideas, Requiremen ts, Feedback, Budget | Product Ideation | Investment Analysis review and approval byBU head | Approved Ideas | Product Manager |\n| Developm Re ent Team, End Users, SMEs | quirements, Feedback | Product Conceptualiza tion | Prototype review by product owner | Prototype (Beta release), Final Product Approval | End User |\n| Product Owner, Developm ent Team | Feasibility, Technology Stack, Planning | Design | Detailed Architecture Design review by product owner | Approved Design document | Developm ent team |"
+}

@@ -1,0 +1,14 @@
+{
+  "pdf": "SOP Embedded Process UTSDEPSOP.pdf",
+  "table_type": "raci",
+  "pages": [
+    7,
+    8
+  ],
+  "sources": [
+    "SOP Embedded Process UTSDEPSOP.pdf (page 7)",
+    "SOP Embedded Process UTSDEPSOP.pdf (page 8)"
+  ],
+  "error": "",
+  "table": "--- Page 7, 8 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Requirement Analysis & Documentation | Hardware Engineer | Project Manager | Firmware Engineer, Simulation Engineer | Delivery Manager |\n| High- & Low-Level Architecture Design | Hardware Engineer | Project Manager | Simulation Engineer | Delivery Manager |\n| Schematic Design | Hardware Engineer | Project Manager | Firmware Engineer, Simulation Engineer, QA Engineer | Delivery Manager |\n| Simulation Reports | Simulation Engineer | Project Manager | Hardware Engineer, Firmware Engineer, QA Engineer | Delivery Manager |\n| Gerber Release Phase | Hardware Engineer | Project Manager | Simulation Engineer, Production Engineer | Delivery Manager |\n| Hardware development | Test Engineer | Project Manager | Production Engineer | Delivery Manager |\n| Firmware Development | Firmware Engineer | Project Manager | Hardware Engineer, Test Engineer | Delivery Manager |\n| Mechanical Development | Mechanical Engineer | Project Manager | Hardware Engineer, QA Engineer | Delivery Manager |\n| Pre compliance Test | Simulation Engineer | Project Manager | Hardware Engineer, Test Engineer | Delivery Manager |\n| Beta Version Design | Hardware Engineer | Project Manager | Production Engineer, QA Engineer | Delivery Manager |\n| Testing Phase | Test Engineer | Project Manager | Test Engineer, Firmware Engineer | Delivery Manager |\n| UAT | Test Engineer | Project Manager | QA Engineer | Production Engineer |"
+}

@@ -1,0 +1,24 @@
+{
+  "pdf": "2. SOP - Secure Design UTIECSOP02.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\2._SOP_-_Secure_Design_UTIECSOP02",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "2. SOP - Secure Design UTIECSOP02.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "2. SOP - Secure Design UTIECSOP02.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

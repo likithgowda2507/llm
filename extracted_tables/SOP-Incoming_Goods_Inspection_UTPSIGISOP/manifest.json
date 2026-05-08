@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP-Incoming Goods Inspection UTPSIGISOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Incoming_Goods_Inspection_UTPSIGISOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        7
+      ],
+      "sources": [
+        "SOP-Incoming Goods Inspection UTPSIGISOP.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        8
+      ],
+      "sources": [
+        "SOP-Incoming Goods Inspection UTPSIGISOP.pdf (page 8)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

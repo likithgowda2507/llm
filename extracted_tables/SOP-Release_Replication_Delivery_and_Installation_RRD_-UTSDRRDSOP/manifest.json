@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP-Release Replication Delivery and Installation (RRD)-UTSDRRDSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Release_Replication_Delivery_and_Installation_RRD_-UTSDRRDSOP",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP-Release Replication Delivery and Installation (RRD)-UTSDRRDSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP-Release Replication Delivery and Installation (RRD)-UTSDRRDSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

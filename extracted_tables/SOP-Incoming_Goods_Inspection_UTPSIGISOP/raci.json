@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP-Incoming Goods Inspection UTPSIGISOP.pdf",
+  "table_type": "raci",
+  "pages": [
+    7
+  ],
+  "sources": [
+    "SOP-Incoming Goods Inspection UTPSIGISOP.pdf (page 7)"
+  ],
+  "error": "",
+  "table": "--- Page 7 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Incoming Goods | Admin Team | Admin Manager | Project Team | Project Manager |\n| Initial & Detailed Visual Inspection | Inspection Personnel | Project Manager | Purchase Manager | Quality team |\n| Report Non- Conforming Materials | Inspection Personnel | Project manager | Purchase Manager, Quality team | Vendor/Supplier |\n| Corrective Action Required | Vendor/Technical Team | Inspection Personnel | Project Manager | Purchase Manager |\n| Approved Goods | Technical Team | Project Manager | Purchase Manager, Quality team | Vendor |\n| Storage | Technical Team/Lab Team | Project Manager | Admin Team | Project Team |"
+}

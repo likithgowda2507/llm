@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP-Administration (ADP)-UTSFADPSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "SOP-Administration (ADP)-UTSFADPSOP.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Supplier | Input | Process | Output | Customer |\n| --- | --- | --- | --- | --- |\n| Internal Departments | Listof Requests Listof activities tobe managed | Employee satisfaction survey, Preventative maintenance | Fulfilment of request Satisfaction of employees | Internal Departments |\n| Requestor | Request for Shipment | Shipment request form, Packing checklist. | Fulfilment of request | Internal Departments |\n| Requestor | Travel Request Form | Administration Travel Activities | Bookings (Flight, Cab, Bus, Train, Hotel) | Internal Departments |\n| Supplier & Customer | Procured goods & Customer supplied items | Inventory register, Incoming inspection Storage in dedicated location. | Proper tracking of purchased goods, Asset management, Stock register Cost control in projects | Internal Departments & customer |"
+}

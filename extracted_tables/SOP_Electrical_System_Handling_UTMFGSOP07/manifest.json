@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP Electrical System Handling UTMFGSOP07.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Electrical_System_Handling_UTMFGSOP07",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP Electrical System Handling UTMFGSOP07.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP Electrical System Handling UTMFGSOP07.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

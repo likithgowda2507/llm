@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP-IT Infrastructure Maintenance (ITP)-UTSFITPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-IT_Infrastructure_Maintenance_ITP_-UTSFITPSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "SOP-IT Infrastructure Maintenance (ITP)-UTSFITPSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        7
+      ],
+      "sources": [
+        "SOP-IT Infrastructure Maintenance (ITP)-UTSFITPSOP.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

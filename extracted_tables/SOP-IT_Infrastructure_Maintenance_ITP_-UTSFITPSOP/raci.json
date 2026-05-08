@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP-IT Infrastructure Maintenance (ITP)-UTSFITPSOP.pdf",
+  "table_type": "raci",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "SOP-IT Infrastructure Maintenance (ITP)-UTSFITPSOP.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Hardware / Software Maintenance | ISG | IT Manager | Headof IT | Users |\n| Preventive Maintenance | ISG | IT Manager | Headof IT | Users |\n| Service Request Handling | ISG | IT Manager | Headof IT | Users / Top management |\n| Access Request Handling | ISG | IT Manager | Headof IT | Users / Top management |\n| Documented Information | ISG | IT Manager | Headof IT | Users |"
+}

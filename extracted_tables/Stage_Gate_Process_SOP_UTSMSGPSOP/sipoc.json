@@ -1,0 +1,12 @@
+{
+  "pdf": "Stage Gate Process SOP UTSMSGPSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    12
+  ],
+  "sources": [
+    "Stage Gate Process SOP UTSMSGPSOP.pdf (page 12)"
+  ],
+  "error": "",
+  "table": "--- Page 12 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Market Analyst | Market Data | Market Research | Market Research Plan | Market Research Report | Product Manager |\n| Project Team | Brainstormi ng Ideas | Brainstorming Sessions | Brainstorming Techniques | Idea List | Product Manager |\n| Project Manager | Idea List | Idea Screening | Screening Criteria | Shortlisted Ideas | Gatekeepers |\n| Gatekeepers | Shortlisted Ideas | Evaluate Ideas | Evaluation Criteria | Evaluation Report | Product Manager |\n| Gatekeepers | Evaluation Report | Decision Making | Decision Criteria | Go/No-Go Decision | Project Team |\n| Market Analyst | Market Data | Detailed Market Research | Research Plan | Market Analysis Report | Product Manager |\n| Project Manager | Technical Requiremen ts | Technical Feasibility Studies | Feasibility Criteria | Feasibility Report | Product Manager |\n| Financial Analyst | Preliminary Financial Data | Preliminary Financial Analysis | Financial Criteria | Preliminary Financial Report | Product Manager |\n| Gatekeepers | Feasibility and Financial Reports | Evaluate Scope and Feasibility | Evaluation Criteria | Evaluation Report | Product Manager |\n| Market analyst | Market Data | Detailed Market Analysis | Analysis Plan | Detailed Market Report | Project Manager |\n| Project Manager | Technical Specificatio ns | Technical Analysis | Analysis Criteria | Technical Analysis Report | Product Manager |\n| Financial Analyst | Comprehen sive | Comprehensiv | Financial Criteria | Comprehen sive | Project Manager |"
+}

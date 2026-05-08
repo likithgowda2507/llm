@@ -1,0 +1,32 @@
+{
+  "pdf": "OTS Project Execution Procedure UTPPXOTSSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\OTS_Project_Execution_Procedure_UTPPXOTSSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "sources": [
+        "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 11)",
+        "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 12)",
+        "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 13)",
+        "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 14)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        15
+      ],
+      "sources": [
+        "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 15)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

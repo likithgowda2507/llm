@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP-Computer System Validation (CSV)-UTSDCSVSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Computer_System_Validation_CSV_-UTSDCSVSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "SOP-Computer System Validation (CSV)-UTSDCSVSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP-Computer System Validation (CSV)-UTSDCSVSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

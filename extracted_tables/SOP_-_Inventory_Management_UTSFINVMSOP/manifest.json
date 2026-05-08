@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP - Inventory Management UTSFINVMSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Inventory_Management_UTSFINVMSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "SOP - Inventory Management UTSFINVMSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        7
+      ],
+      "sources": [
+        "SOP - Inventory Management UTSFINVMSOP.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

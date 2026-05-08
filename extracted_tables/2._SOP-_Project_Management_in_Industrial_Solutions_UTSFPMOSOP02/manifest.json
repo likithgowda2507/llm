@@ -1,0 +1,24 @@
+{
+  "pdf": "2. SOP- Project Management in Industrial Solutions  UTSFPMOSOP02.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\2._SOP-_Project_Management_in_Industrial_Solutions_UTSFPMOSOP02",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "2. SOP- Project Management in Industrial Solutions  UTSFPMOSOP02.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "2. SOP- Project Management in Industrial Solutions  UTSFPMOSOP02.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

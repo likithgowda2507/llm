@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP-Control of Non-Conforming Product (CNP)-UTPSCNPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Control_of_Non-Conforming_Product_CNP_-UTPSCNPSOP",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP-Control of Non-Conforming Product (CNP)-UTPSCNPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP-Control of Non-Conforming Product (CNP)-UTPSCNPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

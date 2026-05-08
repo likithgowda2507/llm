@@ -1,0 +1,12 @@
+{
+  "pdf": "2. SOP- Project Management in Industrial Solutions  UTSFPMOSOP02.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "2. SOP- Project Management in Industrial Solutions  UTSFPMOSOP02.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Project Manager | Acknowledged Signed Contract/PO, Sales to delivery handover form, historical data from past projects/ lessons learnt | Project Planning | Project plan workbook, reviews | Approved Project Plan | Project Team, Customer |\n| Project Team | Approved Project Plan, Requirement specifications | Project Execution | Risk Management, Project Plan, reviews, change control | Deliverables including but not limited to Test certificates, Commissioning reports etc. | Customer |\n| Project Manager | Acceptance of Deliverables by customer | Project Closure | Project closure checklist, workbook | Project Delivery, Resource release, Contract closure and | Customer |"
+}

@@ -1,0 +1,26 @@
+{
+  "pdf": "3. SOP - Secure Implementation UTIECSOP03.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\3._SOP_-_Secure_Implementation_UTIECSOP03",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "3. SOP - Secure Implementation UTIECSOP03.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "3. SOP - Secure Implementation UTIECSOP03.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

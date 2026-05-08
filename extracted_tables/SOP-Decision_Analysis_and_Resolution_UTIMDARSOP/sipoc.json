@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Supplier | Input | Process | Output | Customer |\n| --- | --- | --- | --- | --- |\n| Select the Area for Alternative Evaluation | Areas identified for structured decision making. | \u2022 Identify and select the area for DAR application. \u2022 DAR canbe applied in the following areas and wherever required. \u2022 Selection of Project Methodology \u2022 Design Alternatives \u2022 Risk Mitigation \u2022 High Impact Process / Technology changes \u2022 High Value Purchase \u2022 DAR can alsobe applied to any other area apart from what has been mentioned above based on the requirements. Note: Brainstorming/Focus Group method | Mail / MoM | PM |\n| Select DAR Technique | DAR / Pug Matrix Template | Select appropriate DAR Technique for evaluation | Updated DAR / Pug Matrix Template | PM & Respective Team |\n| Implement the Solution & Contribute to Org Repository | Approved Solution / Pilot Results | Implement the solution and contribute the relevant artefacts to org. repository. |  |  |"
+}

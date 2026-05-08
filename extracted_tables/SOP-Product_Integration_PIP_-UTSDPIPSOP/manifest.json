@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP-Product Integration (PIP)-UTSDPIPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Product_Integration_PIP_-UTSDPIPSOP",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP-Product Integration (PIP)-UTSDPIPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP-Product Integration (PIP)-UTSDPIPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP-Change Management UTPSCMPSOP02.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "SOP-Change Management UTPSCMPSOP02.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Supplier | Input | Process | Output | Customer |\n| --- | --- | --- | --- | --- |\n| Customer / Project team | Existing Processes and Procedures | Change Identification | Identified CR documented in CRF | Project Manager |\n| Project Manager | Change Request Forms | Impact Assessment | Change request form with Impact analysis | CCB |\n| CCB | Change request form with Impact analysis | Change Review & Approval | Approved Change Requests | Customer / Project team |\n| Project team | Approved Change Requests | Implementation & Monitoring | Change Request Reports | Customer / Project team |"
+}

@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP - Quantitative Process Management UTIMQPMSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Quantitative_Process_Management_UTIMQPMSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP - Quantitative Process Management UTIMQPMSOP.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "SOP - Quantitative Process Management UTIMQPMSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

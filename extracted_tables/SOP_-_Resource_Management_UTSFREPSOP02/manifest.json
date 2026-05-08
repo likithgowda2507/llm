@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP - Resource Management UTSFREPSOP02.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Resource_Management_UTSFREPSOP02",
+  "tables": {
+    "raci": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "SOP - Resource Management UTSFREPSOP02.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP - Resource Management UTSFREPSOP02.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

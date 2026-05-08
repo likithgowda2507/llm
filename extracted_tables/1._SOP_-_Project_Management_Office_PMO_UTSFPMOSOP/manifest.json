@@ -1,0 +1,28 @@
+{
+  "pdf": "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\1._SOP_-_Project_Management_Office_PMO_UTSFPMOSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        5,
+        6
+      ],
+      "sources": [
+        "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf (page 5)",
+        "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

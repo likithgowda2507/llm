@@ -1,0 +1,12 @@
+{
+  "pdf": "2. SOP - Secure Design UTIECSOP02.pdf",
+  "table_type": "raci",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "2. SOP - Secure Design UTIECSOP02.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Design | Development Teams, Cybersecurity | Team Lead | Stakeholders, Architects | Customer & Engineering Teams, Product Security Teams |\n| Secure the interfaces of the product | Development Teams | Team Lead | Cybersecurity | Product Security Teams |\n| Adopting defense in depth | Project Teams | Team Lead | Cybersecurity | Stakeholders |\n| Following secure design best practices | Project Teams | Team Lead | Cybersecurity | Stakeholders |\n| Reviewing security design | Cybersecurity, Development Teams | Team Lead | Stakeholders, Product Security Teams | Customer & Engineering Teams |"
+}

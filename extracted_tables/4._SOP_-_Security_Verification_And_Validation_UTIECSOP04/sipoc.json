@@ -1,0 +1,12 @@
+{
+  "pdf": "4. SOP - Security Verification And Validation UTIECSOP04.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "4. SOP - Security Verification And Validation UTIECSOP04.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Supplier | Input | Process | Output | Customer |\n| --- | --- | --- | --- | --- |\n| Standards Bodies, Development Team, Independent department | IEC 62443-4-1 Requirements, Product specification, Test tools, Test Plans | Test plans and checklists, test execution guidelines | Security Requirements Test Report | Project Manager |\n| Standards Bodies, Development Team, Independent department | IEC 62443-4-1 Requirements, Product specification, Threat model, Test tools, Test Plans | Test plans and checklists, mitigation verification guidelines | Threat Mitigation Test Report | Project Manager |\n| Standards Bodies, Development Team, Independent department | IEC 62443-4-1 Requirements, Product specification, Test tools, Test Plans | Test techniques and tools guidelines, vulnerability assessment criteria | Vulnerability Test Report | Project Manager |\n| Standards Bodies, Development Team, Independent department | IEC 62443-4-1 Requirements, Test tools, Test Plans, Expertise, Product Specification | Penetration test environment setup, test execution guidelines, severity rating criteria | Penetration Test Report | Security Engineer |"
+}

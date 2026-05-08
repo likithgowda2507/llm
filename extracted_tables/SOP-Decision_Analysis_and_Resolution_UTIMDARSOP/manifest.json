@@ -1,0 +1,28 @@
+{
+  "pdf": "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Decision_Analysis_and_Resolution_UTIMDARSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        4,
+        5
+      ],
+      "sources": [
+        "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf (page 4)",
+        "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

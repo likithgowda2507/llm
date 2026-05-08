@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP Eye Protection UTMFGSOP05.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Eye_Protection_UTMFGSOP05",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP Eye Protection UTMFGSOP05.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP Eye Protection UTMFGSOP05.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

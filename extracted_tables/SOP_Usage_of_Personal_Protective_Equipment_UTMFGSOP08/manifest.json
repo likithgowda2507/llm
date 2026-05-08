@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP Usage of Personal Protective Equipment UTMFGSOP08.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Usage_of_Personal_Protective_Equipment_UTMFGSOP08",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP Usage of Personal Protective Equipment UTMFGSOP08.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP Usage of Personal Protective Equipment UTMFGSOP08.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

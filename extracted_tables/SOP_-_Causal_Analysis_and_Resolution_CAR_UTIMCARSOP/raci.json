@@ -1,0 +1,14 @@
+{
+  "pdf": "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf",
+  "table_type": "raci",
+  "pages": [
+    5,
+    6
+  ],
+  "sources": [
+    "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf (page 5)",
+    "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 5, 6 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Identify Triggers for CAR | Project Manager | Quality Head | QA, Stakeholders | Development Team |\n| Perform RCA & Identify Improvement Actions | Project Manager | Quality Head | Process Improvement Team | Stakeholders |\n| Evaluate and Select | Project Manager | Quality Head | Process Owner | QA, Stakeholders |\n| Pilot Implementation | Process Owner, Project Manager | Project Manager | Stakeholders, Risk Management | Stakeholders |\n| Create Deployment Plan | Project Manager | Quality Head | QA, PMO | Stakeholders |\n| Deploy Improvement Actions & Evaluate | Project Manager | Quality Head | Process Owner, QA | All Team Members |\n| Archive Artifacts & Sustain | Process Improvement Team | Quality Head | QA, Internal Audit | Leadership Team |"
+}

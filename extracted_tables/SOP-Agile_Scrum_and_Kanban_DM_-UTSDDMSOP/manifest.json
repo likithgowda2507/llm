@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP-Agile Scrum and Kanban (DM)-UTSDDMSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Agile_Scrum_and_Kanban_DM_-UTSDDMSOP",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP-Agile Scrum and Kanban (DM)-UTSDDMSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP-Agile Scrum and Kanban (DM)-UTSDDMSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

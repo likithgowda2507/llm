@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP Internal Audit (IA) UTIMIASOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "SOP Internal Audit (IA) UTIMIASOP.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Quality team | In scope and outof scope project list and Department | Identify Auditor and Prepare Audit plan | Approval for Quality heador person designated by Quality head | Audit Plan | Project team and Support function |\n| Quality team | Audit Plan | Drafting email for communication |  | Audit plan circulation | Project team and Support function |\n|  |  | Internal Audit process | Audit Checklist | Audit observation form | Project team and Support function |"
+}

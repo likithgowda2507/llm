@@ -1,0 +1,28 @@
+{
+  "pdf": "SOP \u2013 Legal Advisory UTSFLSSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Legal_Advisory_UTSFLSSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        7,
+        8
+      ],
+      "sources": [
+        "SOP \u2013 Legal Advisory UTSFLSSOP.pdf (page 7)",
+        "SOP \u2013 Legal Advisory UTSFLSSOP.pdf (page 8)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        8
+      ],
+      "sources": [
+        "SOP \u2013 Legal Advisory UTSFLSSOP.pdf (page 8)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

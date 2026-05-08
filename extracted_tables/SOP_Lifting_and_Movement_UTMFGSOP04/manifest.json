@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP Lifting and Movement UTMFGSOP04.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Lifting_and_Movement_UTMFGSOP04",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP Lifting and Movement UTMFGSOP04.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP Lifting and Movement UTMFGSOP04.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

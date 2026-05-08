@@ -1,0 +1,12 @@
+{
+  "pdf": "3. SOP - Secure Implementation UTIECSOP03.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "3. SOP - Secure Implementation UTIECSOP03.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Supplier | Input | Process | Output | Customer |\n| --- | --- | --- | --- | --- |\n| Project Manager, Product Development Lead | Programming languages, Vulnerabilities | Adopting Secure Coding Standards | Secure Coding standards | Project Manager, Security Engineer /Developers |\n| Security Engineer /Developers | Secure coding Standards | Perform Automated Static Code Analysis | Secure code base | Project manager |\n| Security Expert | Static code analysis report | Conduct Implementation Reviews | Documented implementation reviews, security improvement recommendations | Project Team, Organization |"
+}

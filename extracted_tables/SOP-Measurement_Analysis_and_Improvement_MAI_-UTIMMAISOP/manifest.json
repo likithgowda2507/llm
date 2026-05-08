@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP-Measurement, Analysis and Improvement (MAI)-UTIMMAISOP .pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Measurement_Analysis_and_Improvement_MAI_-UTIMMAISOP",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP-Measurement, Analysis and Improvement (MAI)-UTIMMAISOP .pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP-Measurement, Analysis and Improvement (MAI)-UTIMMAISOP .pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

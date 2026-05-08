@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP - Quantitative Process Management UTIMQPMSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "SOP - Quantitative Process Management UTIMQPMSOP.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| SEPG | Organizatio nal goals, process change triggers | Define baseline criteria | Review of organizational needs, change management policy | Defined baseline criteria | Metrics Team, Delivery Team |\n| Project Teams | Monthly Project Data | Collect, validate, clean data | Data completeness checks, joint validation by SEPG & Metrics Team | Verified & cleaned measureme nt data | SEPG, Delivery Team |\n| Metrics Team, SEPG | Validated metrics data | Perform statistical analysis | Statistical rules, tool-based validations | Process Performance Baseline (PPB) Report | SEPG Head, Senior Managem ent |\n| SEPG | Draft PPB report | Review & approve PPB with leadership | Approval workflow, review meetings, alignment with business targets | Approved and released PPB | All Projects, Delivery |\n| SEPG, Metrics Team | Clean data, identified dependent/ independent variables | Build correlation and regression models | Statistical validation, residual analysis | Process Performance Model (PPM) Report | Project Teams, Senior Managem ent |\n| SEPG | Historical and new data sets | Perform hypothesis testing | Thresholds, useof 2-sample T- tests | Statistical inference & CAR recommend ations | SEPG Head, Delivery |"
+}

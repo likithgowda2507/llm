@@ -1,0 +1,28 @@
+{
+  "pdf": "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Product_Development_Lifecycle_-_UTSDPDLCSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        6,
+        7
+      ],
+      "sources": [
+        "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf (page 6)",
+        "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        7
+      ],
+      "sources": [
+        "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

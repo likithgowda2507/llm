@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP - Learning & Development (LDP) UTSFLDPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Learning_Development_LDP_UTSFLDPSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        7
+      ],
+      "sources": [
+        "SOP - Learning & Development (LDP) UTSFLDPSOP.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP - Learning & Development (LDP) UTSFLDPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

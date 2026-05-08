@@ -1,0 +1,12 @@
+{
+  "pdf": "3. SOP - Secure Implementation UTIECSOP03.pdf",
+  "table_type": "raci",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "3. SOP - Secure Implementation UTIECSOP03.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Adopting Secure Coding Standards | Product Development Lead | Project Manager | IT Head | Management, Employees, Customer |\n| Perform Automated Static Code Analysis | Security Engineer /Developers | Product Development Lead | Security Expert | Management, Customer |\n| Conduct Implementation Reviews | Security Expert | Project Manager | IT Head | Management, Employees, Customer |"
+}

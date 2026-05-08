@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP-Management Systems (MSP)-UTIMMSPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Management_Systems_MSP_-UTIMMSPSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        6,
+        7
+      ],
+      "sources": [
+        "SOP-Management Systems (MSP)-UTIMMSPSOP.pdf (page 6)",
+        "SOP-Management Systems (MSP)-UTIMMSPSOP.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP-Management Systems (MSP)-UTIMMSPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

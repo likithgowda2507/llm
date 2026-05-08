@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP-Procurement (PRO) - UTSFPROSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    7
+  ],
+  "sources": [
+    "SOP-Procurement (PRO) - UTSFPROSOP.pdf (page 7)"
+  ],
+  "error": "",
+  "table": "--- Page 7 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Purchase team / Requestor | Supplier Information | Supplier Selection and Evaluation Process | Assessment basis | Approved Supplier list and rating of Supplier | Concerned Team |\n| Requestor | Request for purchase | Purchase Process | Approval Mechanism | Purchase Order | Respective Team / Supplier |\n| Supplier | Material / Service Delivery | GRN Process | Approval Mechanism | GRN | Respective Team |"
+}

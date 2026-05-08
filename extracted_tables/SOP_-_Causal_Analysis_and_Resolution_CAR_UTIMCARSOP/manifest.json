@@ -1,0 +1,28 @@
+{
+  "pdf": "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Causal_Analysis_and_Resolution_CAR_UTIMCARSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        5,
+        6
+      ],
+      "sources": [
+        "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf (page 5)",
+        "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

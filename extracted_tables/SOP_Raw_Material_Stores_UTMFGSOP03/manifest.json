@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP Raw Material Stores UTMFGSOP03.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Raw_Material_Stores_UTMFGSOP03",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP Raw Material Stores UTMFGSOP03.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP Raw Material Stores UTMFGSOP03.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

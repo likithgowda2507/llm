@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP- Project Management in Industrial Solutions  UTISSOLSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-_Project_Management_in_Industrial_Solutions_UTISSOLSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "SOP- Project Management in Industrial Solutions  UTISSOLSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        7
+      ],
+      "sources": [
+        "SOP- Project Management in Industrial Solutions  UTISSOLSOP.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

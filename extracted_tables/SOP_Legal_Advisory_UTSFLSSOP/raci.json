@@ -1,0 +1,14 @@
+{
+  "pdf": "SOP \u2013 Legal Advisory UTSFLSSOP.pdf",
+  "table_type": "raci",
+  "pages": [
+    7,
+    8
+  ],
+  "sources": [
+    "SOP \u2013 Legal Advisory UTSFLSSOP.pdf (page 7)",
+    "SOP \u2013 Legal Advisory UTSFLSSOP.pdf (page 8)"
+  ],
+  "error": "",
+  "table": "--- Page 7, 8 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Contracts and Agreements | Director Legal | Director Legal | Finance & Sales | Senior Management |\n| Intellectual Property Protection | Director Legal | Director Legal | CTO | Senior Management |\n| Regulatory Compliance | Respective department | Respective department | Director Legal | Senior Management |\n| Data Protection and Privacy | IT Security | Business Units | Director Legal | Senior Management |\n| Dispute Resolution and Litigation | Director Legal | Director Legal | Senior Management | Respective Stakeholders |\n| Corporate Governance | Legal Team | Senior Management | Finance | HR, Business Units |\n| Employment and Labor Laws | HR | HR | Director Legal | IT Security, Business Units, Senior Management |\n| Cybersecurity and Technology Risks | IT Security | CTO | Director Legal | HR, Business Units, Senior Management |\n| International Operations & Cross-Border Issues | Director Legal | Director Legal | Finance | HR, IT Security, Business Units, Senior Management |\n| Ethical and Social Responsibility | HR | HR | Director Legal, Business Units | HR, Senior Management |\n| Intellectual Property Transactions | Director Legal | Director Legal | PE team, Business Units | HR, IT Security, Senior Management |\n| Framing Policies | Director Legal | Director Legal | PE team, Business Units | HR, IT Security, Senior Management |"
+}

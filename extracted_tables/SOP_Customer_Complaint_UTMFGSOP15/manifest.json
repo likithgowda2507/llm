@@ -1,0 +1,22 @@
+{
+  "pdf": "SOP Customer Complaint UTMFGSOP15.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Customer_Complaint_UTMFGSOP15",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP Customer Complaint UTMFGSOP15.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP Customer Complaint UTMFGSOP15.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "pdf": "4. SOP - Security Verification And Validation UTIECSOP04.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\4._SOP_-_Security_Verification_And_Validation_UTIECSOP04",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "4. SOP - Security Verification And Validation UTIECSOP04.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "4. SOP - Security Verification And Validation UTIECSOP04.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

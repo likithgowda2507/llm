@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP Manufacturing and Assembly UTMFGSOP02.pdf",
+  "table_type": "raci",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "SOP Manufacturing and Assembly UTMFGSOP02.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Vendor Selection & Approval | Procurement Team, Vendor Assessment Team | Procurement Team | Production Team, Design Team, Legal | Stakeholders, Project Team |\n| Release for Production | Production Manager/Produ ction Supervisor | Production Manager/Produ ction Supervisor, Design Team, | Hardware lead, Vendor | Procurement Team, Project Manager |\n| Risk Manageme nt | Project Team, Production Team | Project Manager | Vendors, Procurement Team | Design Team, Senior Management |\n| Production Planning | Production Manager/Produ ction Supervisor | Project Manager | Procurement Team, Vendor | Design Team, Project Team |\n| Raw Material processing | Production Manager/Produ ction Supervisor | Production Manager/Produ ction Supervisor | Design Team, Quality Control team | Project Team, Quality Assurance Team |\n| Component Manufactur ing | Production Manager/Produ ction Supervisor | Production Manager/Produ ction Supervisor | Design Team, Quality Control team | Project Team |\n| Sub- Assembly | Production Manager/Produ ction Supervisor | Production Manager/Produ ction Supervisor | Design Team, Quality Control team | Project Team |\n| Final Assemble & Integration | Production Manager/Produ ction Supervisor | Production Manager/Produ ction Supervisor | Design Team, Quality Control team | Project Team, Quality Assurance Team |"
+}

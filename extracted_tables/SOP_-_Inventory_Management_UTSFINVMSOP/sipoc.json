@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP - Inventory Management UTSFINVMSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    7
+  ],
+  "sources": [
+    "SOP - Inventory Management UTSFINVMSOP.pdf (page 7)"
+  ],
+  "error": "",
+  "table": "--- Page 7 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Supplier | Purchase order, Delivery note | GRN process | Inspection | Accepted material | Stores |\n| Store in charge | Store issue slip | Inventory Handling | Update of records | Material issued, Stock Register, Asset Register Customer Suppled Asset Register | Project team & support functions |\n| Warehouse | Purchase request, Stock transfer request | Stock Transfer | Stock register updates, Statutory documents for material movement | Material transfer from warehouse | Project team |"
+}

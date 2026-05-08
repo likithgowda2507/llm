@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP \u2013 Strategy Deploment Plan - UTIMSDPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Strategy_Deploment_Plan_-_UTIMSDPSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP \u2013 Strategy Deploment Plan - UTIMSDPSOP.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP \u2013 Strategy Deploment Plan - UTIMSDPSOP.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP Internal Audit (IA) UTIMIASOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Internal_Audit_IA_UTIMIASOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        4
+      ],
+      "sources": [
+        "SOP Internal Audit (IA) UTIMIASOP.pdf (page 4)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP Internal Audit (IA) UTIMIASOP.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

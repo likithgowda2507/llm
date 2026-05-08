@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP Forklift Operation and Maintenance UTMFGSOP06.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "SOP Forklift Operation and Maintenance UTMFGSOP06.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Operator | Forklift, checklist, PPE | Daily inspection & operation | supervisor verification, structured checklists, escalation protocols | Safe forklift operation | Shop floor team |\n| Maintenance | Tools, spares, maintenance log | Preventive & corrective actions | RCA validation, action tracking, supervisor verification, effectiveness checks, | Reliable forklift performa nce | Production team |\n| EHS | Safety rules, training | Safety monitoring & compliance | policies, risk assessments, inspections, reporting systems, audits, training, | Zero accidents | Management |"
+}

@@ -1,0 +1,1818 @@
+{
+  "documents": [
+    {
+      "pdf": "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\1._SOP_-_Project_Management_Office_PMO_UTSFPMOSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            5,
+            6
+          ],
+          "sources": [
+            "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf (page 5)",
+            "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "1. SOP - Security Requirement UTIECSOP01.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\1._SOP_-_Security_Requirement_UTIECSOP01",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "1. SOP - Security Requirement UTIECSOP01.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "1. SOP - Security Requirement UTIECSOP01.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "1. SOP-Hardware Kitting (HK) UTSDHPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\1._SOP-Hardware_Kitting_HK_UTSDHPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "1. SOP-Hardware Kitting (HK) UTSDHPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "1. SOP-Hardware Kitting (HK) UTSDHPSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "2. SOP - Secure Design UTIECSOP02.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\2._SOP_-_Secure_Design_UTIECSOP02",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "2. SOP - Secure Design UTIECSOP02.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "2. SOP - Secure Design UTIECSOP02.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "2. SOP- Project Management in Industrial Solutions  UTSFPMOSOP02.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\2._SOP-_Project_Management_in_Industrial_Solutions_UTSFPMOSOP02",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "2. SOP- Project Management in Industrial Solutions  UTSFPMOSOP02.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "2. SOP- Project Management in Industrial Solutions  UTSFPMOSOP02.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "3. SOP - Secure Implementation UTIECSOP03.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\3._SOP_-_Secure_Implementation_UTIECSOP03",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "3. SOP - Secure Implementation UTIECSOP03.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "3. SOP - Secure Implementation UTIECSOP03.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "4. SOP - Security Verification And Validation UTIECSOP04.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\4._SOP_-_Security_Verification_And_Validation_UTIECSOP04",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "4. SOP - Security Verification And Validation UTIECSOP04.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "4. SOP - Security Verification And Validation UTIECSOP04.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "OTS Project Execution Procedure UTPPXOTSSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\OTS_Project_Execution_Procedure_UTPPXOTSSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "sources": [
+            "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 11)",
+            "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 12)",
+            "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 13)",
+            "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 14)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            15
+          ],
+          "sources": [
+            "OTS Project Execution Procedure UTPPXOTSSOP.pdf (page 15)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP  Manufacturing Mono Block III UTTMFGSOP10.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Manufacturing_Mono_Block_III_UTTMFGSOP10",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP  Manufacturing Mono Block III UTTMFGSOP10.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP  Manufacturing Mono Block III UTTMFGSOP10.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Causal_Analysis_and_Resolution_CAR_UTIMCARSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            5,
+            6
+          ],
+          "sources": [
+            "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf (page 5)",
+            "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP - Causal Analysis and Resolution (CAR) UTIMCARSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Engineering Procurement and Construction UTEPCSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Engineering_Procurement_and_Construction_UTEPCSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP - Engineering Procurement and Construction UTEPCSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP - Engineering Procurement and Construction UTEPCSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Inventory Management UTSFINVMSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Inventory_Management_UTSFINVMSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP - Inventory Management UTSFINVMSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP - Inventory Management UTSFINVMSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Learning & Development (LDP) UTSFLDPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Learning_Development_LDP_UTSFLDPSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP - Learning & Development (LDP) UTSFLDPSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP - Learning & Development (LDP) UTSFLDPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Opportunity Management (OMP)-UTSMOMPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Opportunity_Management_OMP_-UTSMOMPSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP - Opportunity Management (OMP)-UTSMOMPSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP - Opportunity Management (OMP)-UTSMOMPSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Packing and Shipment UTPSPASSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Packing_and_Shipment_UTPSPASSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP - Packing and Shipment UTPSPASSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP - Packing and Shipment UTPSPASSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Payroll Process UTSFREPSOP01.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Payroll_Process_UTSFREPSOP01",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP - Payroll Process UTSFREPSOP01.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP - Payroll Process UTSFREPSOP01.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Process Management(PMP) - UTIMPMPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Process_Management_PMP_-_UTIMPMPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP - Process Management(PMP) - UTIMPMPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP - Process Management(PMP) - UTIMPMPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Product_Development_Lifecycle_-_UTSDPDLCSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            6,
+            7
+          ],
+          "sources": [
+            "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf (page 6)",
+            "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP - Product Development Lifecycle - UTSDPDLCSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Quantitative Process Management UTIMQPMSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Quantitative_Process_Management_UTIMQPMSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP - Quantitative Process Management UTIMQPMSOP.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP - Quantitative Process Management UTIMQPMSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Resource Management UTSFREPSOP02.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Resource_Management_UTSFREPSOP02",
+      "tables": {
+        "raci": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP - Resource Management UTSFREPSOP02.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP - Resource Management UTSFREPSOP02.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Statutory Regulatory Compliance Management UTSFLSSOP02.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Statutory_Regulatory_Compliance_Management_UTSFLSSOP02",
+      "tables": {
+        "raci": {
+          "pages": [
+            5,
+            6
+          ],
+          "sources": [
+            "SOP - Statutory Regulatory Compliance Management UTSFLSSOP02.pdf (page 5)",
+            "SOP - Statutory Regulatory Compliance Management UTSFLSSOP02.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP - Statutory Regulatory Compliance Management UTSFLSSOP02.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP - Talent Acquisition UTSFTMPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_-_Talent_Acquisition_UTSFTMPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP - Talent Acquisition UTSFTMPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP - Talent Acquisition UTSFTMPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Customer Complaint UTMFGSOP15.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Customer_Complaint_UTMFGSOP15",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP Customer Complaint UTMFGSOP15.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Customer Complaint UTMFGSOP15.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Electrical System Handling UTMFGSOP07.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Electrical_System_Handling_UTMFGSOP07",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Electrical System Handling UTMFGSOP07.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Electrical System Handling UTMFGSOP07.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Embedded Process UTSDEPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Embedded_Process_UTSDEPSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            7,
+            8
+          ],
+          "sources": [
+            "SOP Embedded Process UTSDEPSOP.pdf (page 7)",
+            "SOP Embedded Process UTSDEPSOP.pdf (page 8)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Embedded Process UTSDEPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Eye Protection UTMFGSOP05.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Eye_Protection_UTMFGSOP05",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Eye Protection UTMFGSOP05.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Eye Protection UTMFGSOP05.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Final Inspection-UTMFGSOP13.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Final_Inspection-UTMFGSOP13",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP Final Inspection-UTMFGSOP13.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Final Inspection-UTMFGSOP13.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Forklift Operation and Maintenance UTMFGSOP06.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Forklift_Operation_and_Maintenance_UTMFGSOP06",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Forklift Operation and Maintenance UTMFGSOP06.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP Forklift Operation and Maintenance UTMFGSOP06.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP Internal Audit (IA) UTIMIASOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Internal_Audit_IA_UTIMIASOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            4
+          ],
+          "sources": [
+            "SOP Internal Audit (IA) UTIMIASOP.pdf (page 4)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Internal Audit (IA) UTIMIASOP.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP Lifting and Movement UTMFGSOP04.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Lifting_and_Movement_UTMFGSOP04",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Lifting and Movement UTMFGSOP04.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Lifting and Movement UTMFGSOP04.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP Manufacturing 1010BC UTMFGSOP09.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Manufacturing_1010BC_UTMFGSOP09",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Manufacturing 1010BC UTMFGSOP09.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Manufacturing 1010BC UTMFGSOP09.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Manufacturing and Assembly UTMFGSOP02.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Manufacturing_and_Assembly_UTMFGSOP02",
+      "tables": {
+        "raci": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP Manufacturing and Assembly UTMFGSOP02.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Manufacturing and Assembly UTMFGSOP02.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Manufacturing Multi Stream Controller UTMFGSOP11.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Manufacturing_Multi_Stream_Controller_UTMFGSOP11",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Manufacturing Multi Stream Controller UTMFGSOP11.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP Manufacturing Multi Stream Controller UTMFGSOP11.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP Manufacturing SSC-SVP UTMFGSOP12.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Manufacturing_SSC-SVP_UTMFGSOP12",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Manufacturing SSC-SVP UTMFGSOP12.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP Manufacturing SSC-SVP UTMFGSOP12.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP Measuring Monitoring of Equipment UTMFGSOP14.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Measuring_Monitoring_of_Equipment_UTMFGSOP14",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP Measuring Monitoring of Equipment UTMFGSOP14.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Measuring Monitoring of Equipment UTMFGSOP14.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Production Process UTMFGSOP01.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Production_Process_UTMFGSOP01",
+      "tables": {
+        "raci": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP Production Process UTMFGSOP01.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            8
+          ],
+          "sources": [
+            "SOP Production Process UTMFGSOP01.pdf (page 8)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP Raw Material Stores UTMFGSOP03.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Raw_Material_Stores_UTMFGSOP03",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP Raw Material Stores UTMFGSOP03.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Raw Material Stores UTMFGSOP03.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP Usage of Personal Protective Equipment UTMFGSOP08.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Usage_of_Personal_Protective_Equipment_UTMFGSOP08",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP Usage of Personal Protective Equipment UTMFGSOP08.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP Usage of Personal Protective Equipment UTMFGSOP08.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP \u2013 Legal Advisory UTSFLSSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Legal_Advisory_UTSFLSSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            7,
+            8
+          ],
+          "sources": [
+            "SOP \u2013 Legal Advisory UTSFLSSOP.pdf (page 7)",
+            "SOP \u2013 Legal Advisory UTSFLSSOP.pdf (page 8)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            8
+          ],
+          "sources": [
+            "SOP \u2013 Legal Advisory UTSFLSSOP.pdf (page 8)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP \u2013 Strategy Deploment Plan - UTIMSDPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Strategy_Deploment_Plan_-_UTIMSDPSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP \u2013 Strategy Deploment Plan - UTIMSDPSOP.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP \u2013 Strategy Deploment Plan - UTIMSDPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP- Engineering Change Request Management (ECRM) UTSDECRMSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-_Engineering_Change_Request_Management_ECRM_UTSDECRMSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP- Engineering Change Request Management (ECRM) UTSDECRMSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            8
+          ],
+          "sources": [
+            "SOP- Engineering Change Request Management (ECRM) UTSDECRMSOP.pdf (page 8)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP- Infrastructure Support Process.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-_Infrastructure_Support_Process",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP- Infrastructure Support Process.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP- Infrastructure Support Process.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP- Project Management in Industrial Solutions  UTISSOLSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-_Project_Management_in_Industrial_Solutions_UTISSOLSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP- Project Management in Industrial Solutions  UTISSOLSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP- Project Management in Industrial Solutions  UTISSOLSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Administration (ADP)-UTSFADPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Administration_ADP_-UTSFADPSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP-Administration (ADP)-UTSFADPSOP.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP-Administration (ADP)-UTSFADPSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Agile Scrum and Kanban (DM)-UTSDDMSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Agile_Scrum_and_Kanban_DM_-UTSDDMSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Agile Scrum and Kanban (DM)-UTSDDMSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Agile Scrum and Kanban (DM)-UTSDDMSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-AHU Duct Leak Test & Test Report UTEPCSOP01.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-AHU_Duct_Leak_Test_Test_Report_UTEPCSOP01",
+      "tables": {
+        "raci": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP-AHU Duct Leak Test & Test Report UTEPCSOP01.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP-AHU Duct Leak Test & Test Report UTEPCSOP01.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Backup Security and Archival (BSA)-UTSFBSASOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Backup_Security_and_Archival_BSA_-UTSFBSASOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Backup Security and Archival (BSA)-UTSFBSASOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Backup Security and Archival (BSA)-UTSFBSASOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Change Management UTPSCMPSOP02.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Change_Management_UTPSCMPSOP02",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Change Management UTPSCMPSOP02.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP-Change Management UTPSCMPSOP02.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Coding (CDP)-UTSDCDPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Coding_CDP_-UTSDCDPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Coding (CDP)-UTSDCDPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Coding (CDP)-UTSDCDPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Computer System Validation (CSV)-UTSDCSVSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Computer_System_Validation_CSV_-UTSDCSVSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP-Computer System Validation (CSV)-UTSDCSVSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Computer System Validation (CSV)-UTSDCSVSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Configuration Management UTPSCMPSOP01.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Configuration_Management_UTPSCMPSOP01",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Configuration Management UTPSCMPSOP01.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Configuration Management UTPSCMPSOP01.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Content Management (CTM)-UTSMCTMSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Content_Management_CTM_-UTSMCTMSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Content Management (CTM)-UTSMCTMSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP-Content Management (CTM)-UTSMCTMSOP.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Control of Non-Conforming Product (CNP)-UTPSCNPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Control_of_Non-Conforming_Product_CNP_-UTPSCNPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Control of Non-Conforming Product (CNP)-UTPSCNPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Control of Non-Conforming Product (CNP)-UTPSCNPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Customer Escalation (CES)-UTPSCESSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Customer_Escalation_CES_-UTPSCESSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Customer Escalation (CES)-UTPSCESSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Customer Escalation (CES)-UTPSCESSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-CustomerFeedback (CFP)-UTPSCFPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-CustomerFeedback_CFP_-UTPSCFPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-CustomerFeedback (CFP)-UTPSCFPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-CustomerFeedback (CFP)-UTPSCFPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Decision_Analysis_and_Resolution_UTIMDARSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            4,
+            5
+          ],
+          "sources": [
+            "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf (page 4)",
+            "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            5
+          ],
+          "sources": [
+            "SOP-Decision Analysis and Resolution UTIMDARSOP.pdf (page 5)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Design (DSP)-UTSDDSPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Design_DSP_-UTSDDSPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Design (DSP)-UTSDDSPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Design (DSP)-UTSDDSPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Externally Provided Property (EPP)-UTIMEPPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Externally_Provided_Property_EPP_-UTIMEPPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Externally Provided Property (EPP)-UTIMEPPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Externally Provided Property (EPP)-UTIMEPPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Incoming Goods Inspection UTPSIGISOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Incoming_Goods_Inspection_UTPSIGISOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP-Incoming Goods Inspection UTPSIGISOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            8
+          ],
+          "sources": [
+            "SOP-Incoming Goods Inspection UTPSIGISOP.pdf (page 8)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-IT Infrastructure Maintenance (ITP)-UTSFITPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-IT_Infrastructure_Maintenance_ITP_-UTSFITPSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP-IT Infrastructure Maintenance (ITP)-UTSFITPSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP-IT Infrastructure Maintenance (ITP)-UTSFITPSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Lead Management (LMP)-UTSMLMPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Lead_Management_LMP_-UTSMLMPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Lead Management (LMP)-UTSMLMPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Lead Management (LMP)-UTSMLMPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Management Systems (MSP)-UTIMMSPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Management_Systems_MSP_-UTIMMSPSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            6,
+            7
+          ],
+          "sources": [
+            "SOP-Management Systems (MSP)-UTIMMSPSOP.pdf (page 6)",
+            "SOP-Management Systems (MSP)-UTIMMSPSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Management Systems (MSP)-UTIMMSPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Measurement, Analysis and Improvement (MAI)-UTIMMAISOP .pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Measurement_Analysis_and_Improvement_MAI_-UTIMMAISOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Measurement, Analysis and Improvement (MAI)-UTIMMAISOP .pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Measurement, Analysis and Improvement (MAI)-UTIMMAISOP .pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Order to Cash UTSMOCSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Order_to_Cash_UTSMOCSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            5,
+            6
+          ],
+          "sources": [
+            "SOP-Order to Cash UTSMOCSOP.pdf (page 5)",
+            "SOP-Order to Cash UTSMOCSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            6
+          ],
+          "sources": [
+            "SOP-Order to Cash UTSMOCSOP.pdf (page 6)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Procurement (PRO) - UTSFPROSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Procurement_PRO_-_UTSFPROSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Procurement (PRO) - UTSFPROSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [
+            7
+          ],
+          "sources": [
+            "SOP-Procurement (PRO) - UTSFPROSOP.pdf (page 7)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Product Integration (PIP)-UTSDPIPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Product_Integration_PIP_-UTSDPIPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Product Integration (PIP)-UTSDPIPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Product Integration (PIP)-UTSDPIPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Project Closure (PCP)-UTPMPCPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Project_Closure_PCP_-UTPMPCPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Project Closure (PCP)-UTPMPCPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Project Closure (PCP)-UTPMPCPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Project Planning (PPP)-UTPMPPPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Project_Planning_PPP_-UTPMPPPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Project Planning (PPP)-UTPMPPPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Project Planning (PPP)-UTPMPPPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Release Replication Delivery and Installation (RRD)-UTSDRRDSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Release_Replication_Delivery_and_Installation_RRD_-UTSDRRDSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Release Replication Delivery and Installation (RRD)-UTSDRRDSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Release Replication Delivery and Installation (RRD)-UTSDRRDSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Requirements Specification (RSP)-UTSDRSPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Requirements_Specification_RSP_-UTSDRSPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Requirements Specification (RSP)-UTSDRSPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Requirements Specification (RSP)-UTSDRSPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Review Process(RVP)-UTPSRVPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Review_Process_RVP_-UTPSRVPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Review Process(RVP)-UTPSRVPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Review Process(RVP)-UTPSRVPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Risk & Opportunity Management(RMP) - UTIMRMPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Risk_Opportunity_Management_RMP_-_UTIMRMPSOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Risk & Opportunity Management(RMP) - UTIMRMPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Risk & Opportunity Management(RMP) - UTIMRMPSOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "SOP-Testing Validation and Acceptance (TVA)-UTSDTVASOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Testing_Validation_and_Acceptance_TVA_-UTSDTVASOP",
+      "tables": {
+        "raci": {
+          "pages": [],
+          "sources": [
+            "SOP-Testing Validation and Acceptance (TVA)-UTSDTVASOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        },
+        "sipoc": {
+          "pages": [],
+          "sources": [
+            "SOP-Testing Validation and Acceptance (TVA)-UTSDTVASOP.pdf"
+          ],
+          "error": "No table extracted from the document.",
+          "has_table": false
+        }
+      }
+    },
+    {
+      "pdf": "Stage Gate Process SOP UTSMSGPSOP.pdf",
+      "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\Stage_Gate_Process_SOP_UTSMSGPSOP",
+      "tables": {
+        "raci": {
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "sources": [
+            "Stage Gate Process SOP UTSMSGPSOP.pdf (page 6)",
+            "Stage Gate Process SOP UTSMSGPSOP.pdf (page 7)",
+            "Stage Gate Process SOP UTSMSGPSOP.pdf (page 8)",
+            "Stage Gate Process SOP UTSMSGPSOP.pdf (page 9)",
+            "Stage Gate Process SOP UTSMSGPSOP.pdf (page 10)"
+          ],
+          "error": "",
+          "has_table": true
+        },
+        "sipoc": {
+          "pages": [
+            12
+          ],
+          "sources": [
+            "Stage Gate Process SOP UTSMSGPSOP.pdf (page 12)"
+          ],
+          "error": "",
+          "has_table": true
+        }
+      }
+    }
+  ]
+}

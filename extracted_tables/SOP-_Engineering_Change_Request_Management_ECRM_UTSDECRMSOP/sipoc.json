@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP- Engineering Change Request Management (ECRM) UTSDECRMSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    8
+  ],
+  "sources": [
+    "SOP- Engineering Change Request Management (ECRM) UTSDECRMSOP.pdf (page 8)"
+  ],
+  "error": "",
+  "table": "--- Page 8 ---\n| Supplier | Input | Process | Output | Customer |\n| --- | --- | --- | --- | --- |\n| Engineering Team | Change requests |  | Identified Change re- quests | Project Man- ager |\n| Engineering team | Identified Change requests | ECR Creation | Documented in ECR Form | CCB |\n| Project Man- ager | ECR Form | ECR Approval | Approved ECR | Engi- neering team |\n| Engineering team | Approved ECR | ECO Creation | Detailed ECO | CCB |\n| Project Man- ager | Detailed ECO | ECO Approval | Approved ECO | Engi- neering Team |\n| Engineering Team | Approved ECO | Communication and Training | Communica- tion and trained on required skills to engi- neering team | Engi- neering Team |\n| Project Man- ager | Communication of ECO and trained engi- neering team | Implementation | Implemented CR | Rele- vant Stake- holders |"
+}

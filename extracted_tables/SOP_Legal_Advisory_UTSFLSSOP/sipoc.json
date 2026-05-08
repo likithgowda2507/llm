@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP \u2013 Legal Advisory UTSFLSSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    8
+  ],
+  "sources": [
+    "SOP \u2013 Legal Advisory UTSFLSSOP.pdf (page 8)"
+  ],
+  "error": "",
+  "table": "--- Page 8 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Sales, Clients | Contract requirements, legal guidelines | Contracts and Agreements | Drafting, reviewing, negotiating, and finalizing contracts | Signed contracts, agreements | Clients, Vendors, Business Units |\n| CTO External Counsel | IP filings, prior art research | Intellectual Property (IP) Protection | Filing patents, managing IP disputes, enforcing IP rights | Registered patents, resolved disputes | CTO, Legal Dept. |\n| Government Bodies, Standards bodies | IT laws, data protection regulations | Regulatory Compliance | Implementing compliance measures, conducting audits | Compliance reports, audit results | Regulators, Management |\n| IT Security, HR, Compliance | GDPR, HIPAA, PDP Act guidelines | Data Protection and Privacy | Implementing policies, | Compliance reports, data | Employees, Clients, Regulators |"
+}

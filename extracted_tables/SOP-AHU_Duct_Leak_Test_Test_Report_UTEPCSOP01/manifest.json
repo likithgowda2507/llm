@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP-AHU Duct Leak Test & Test Report UTEPCSOP01.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-AHU_Duct_Leak_Test_Test_Report_UTEPCSOP01",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP-AHU Duct Leak Test & Test Report UTEPCSOP01.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP-AHU Duct Leak Test & Test Report UTEPCSOP01.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

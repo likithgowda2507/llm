@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP-Change Management UTPSCMPSOP02.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Change_Management_UTPSCMPSOP02",
+  "tables": {
+    "raci": {
+      "pages": [],
+      "sources": [
+        "SOP-Change Management UTPSCMPSOP02.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    },
+    "sipoc": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP-Change Management UTPSCMPSOP02.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP Forklift Operation and Maintenance UTMFGSOP06.pdf",
+  "table_type": "raci",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "SOP Forklift Operation and Maintenance UTMFGSOP06.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Daily Pre- Operation Checks | Operator | Supervisor | Maintenance | EHS Officer |\n| Safe Operation of Forklift | Operator | Supervisor | EHS Officer | Maintenance |\n| Reporting Defects | Operator | Supervisor | Maintenance | EHS Officer |\n| Planned Preventive Maintenance | Maintenance | EHS Officer | Supervisor | Operator |\n| Compliance to Legal/Statutory Requirements | EHS Officer | Supervisor | Maintenance | Operator |"
+}

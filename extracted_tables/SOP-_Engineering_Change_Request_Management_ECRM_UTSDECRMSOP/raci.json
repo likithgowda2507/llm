@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP- Engineering Change Request Management (ECRM) UTSDECRMSOP.pdf",
+  "table_type": "raci",
+  "pages": [
+    7
+  ],
+  "sources": [
+    "SOP- Engineering Change Request Management (ECRM) UTSDECRMSOP.pdf (page 7)"
+  ],
+  "error": "",
+  "table": "--- Page 7 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Identification of Changes | Engineering Team | Engineering Man- ager | Cross func- tional team | Delivery Man- ager, Cus- tomer |\n| ECR Creation | Engineering Team & Pro- ject manager | Engineering Man- ager | Cross func- tional team | Delivery Man- ager |\n| ECR Approval | Project Man- ager | CCB | Delivery Man- ager | BU Head |\n| ECO Creation | Engineering Team | Engineering Man- ager | Project Man- ager | Delivery Man- ager |\n| ECO Approval | Project Man- ager | CCB | Delivery Man- ager | BU Head |\n| Communication & Training | Engineering Team | Engineering Man- ager | Project Man- ager | Delivery Man- ager |\n| Implementation | Project Man- ager | Engineering Team | Delivery Man- ager | BU Head |"
+}

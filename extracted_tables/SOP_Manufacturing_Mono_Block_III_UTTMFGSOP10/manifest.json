@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP  Manufacturing Mono Block III UTTMFGSOP10.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Manufacturing_Mono_Block_III_UTTMFGSOP10",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP  Manufacturing Mono Block III UTTMFGSOP10.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "SOP  Manufacturing Mono Block III UTTMFGSOP10.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP Manufacturing SSC-SVP UTMFGSOP12.pdf",
+  "table_type": "raci",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "SOP Manufacturing SSC-SVP UTMFGSOP12.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Production Order Creation | Production Manager | Production Manager | Procurement Lead | Procurement Lead |\n| Material Planning | Store Supervisor | Procureme nt Lead | Production Manager | Production Manager |\n| FG Date Confirmation | Production Manager | Production Manager | Procurement Lead | Procurement Lead |\n| Material Issue | Store Supervisor | Production Manager | Production Manager | Production Manager |\n| Production | Production Operator | Production Manager | - | - |\n| Assembly/Testing | Testing Engineer | Production Manager | QC Lead | QC Lead |\n| Quality Check | Quality Engineer | Production Manager | Testing Engineer | Testing Engineer |\n| Close Production Order | Production Operator | Production Manager | QC Lead | QC Lead |"
+}

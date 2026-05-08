@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP-Administration (ADP)-UTSFADPSOP.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP-Administration_ADP_-UTSFADPSOP",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP-Administration (ADP)-UTSFADPSOP.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        6
+      ],
+      "sources": [
+        "SOP-Administration (ADP)-UTSFADPSOP.pdf (page 6)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

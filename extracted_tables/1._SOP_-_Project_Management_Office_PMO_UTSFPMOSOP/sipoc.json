@@ -1,0 +1,12 @@
+{
+  "pdf": "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "1. SOP - Project Management Office(PMO) UTSFPMOSOP.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Supplier | Input | Process | Output | Customer |\n| --- | --- | --- | --- | --- |\n| Solution Owner | Proposal Copy, Approval mail, BU Margin, Zoho DealID, RFQ/RFP from Customer | Proposal ID Creation | Proposal ID | Solution Owner |\n| Project Manager/ Account Manager | SOW, BU Margin, Sales to Delivery, PO, Project ID request form | Project ID Creation | Project ID | Quality, Project Manager/ Account Manager, Sakes |\n| Project Manager | Resource Profile | Resource Allocation Resource Deallocation | Booked Resource | Project Manager |\n| Project Manager/ Account Manager | Time sheet, Customer approval mail, Invoice, | Invoice Submission | Single invoice document with digital signature | Project Manager / Account Manager |"
+}

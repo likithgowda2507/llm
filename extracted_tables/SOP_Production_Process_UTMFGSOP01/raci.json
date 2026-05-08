@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP Production Process UTMFGSOP01.pdf",
+  "table_type": "raci",
+  "pages": [
+    7
+  ],
+  "sources": [
+    "SOP Production Process UTMFGSOP01.pdf (page 7)"
+  ],
+  "error": "",
+  "table": "--- Page 7 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Vendor Selection & Approval | Procurement Team, Vendor Assessment Team | Procurement Team | Production Team, Design Team, Legal | Stakeholders, Project Team |\n| Release for Production | Production Manager/Producti on Supervisor | Production Manager/Pro duction Supervisor, Design Team, | Hardware lead, Vendor | Procurement Team, Project Manager |\n| Risk Management | Project Team, Production Team | Project Manager | Vendors, Procurement Team | Design Team, Senior Management |\n| Production Planning | Production Manager/Producti on Supervisor | Project Manager | Procurement Team, Vendor | Design Team, Project Team |\n| Manufacturing | Vendor | Production Manager/Pro duction Supervisor | Design Team, Quality Control team | Project Team, Quality Assurance Team |\n| Handling Changes and Revisions | Production Manager/Producti on Supervisor | Project Manager | Vendors, Production Team | All stakeholders involved in the change |\n| Validation & Verification of Production Flow | Vendor | Production Manager/Pro duction Supervisor | Procurement Team, EMS Vendor, Vendors | Project Team, Quality Assurance Team |\n| Quality Control of finished goods | Production Manager/Producti on Supervisor | Project Manager | Vendor, Quality Assurance Team | Design Team, Procurement Team |\n| Packaging, Logistics & Shipping | Production Team, Vendor | Production Manager/Pro duction Supervisor | Logistics Provider, Vendor | Procurement Team, Client |\n| Final Acceptance & Handover | Production Manager/Producti on Supervisor | Project Manager | Client, Vendor | Production Team, Design Team, Senior Management |"
+}

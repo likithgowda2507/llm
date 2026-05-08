@@ -1,0 +1,26 @@
+{
+  "pdf": "SOP Production Process UTMFGSOP01.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Production_Process_UTMFGSOP01",
+  "tables": {
+    "raci": {
+      "pages": [
+        7
+      ],
+      "sources": [
+        "SOP Production Process UTMFGSOP01.pdf (page 7)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [
+        8
+      ],
+      "sources": [
+        "SOP Production Process UTMFGSOP01.pdf (page 8)"
+      ],
+      "error": "",
+      "has_table": true
+    }
+  }
+}

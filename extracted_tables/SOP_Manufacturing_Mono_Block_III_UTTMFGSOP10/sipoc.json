@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP  Manufacturing Mono Block III UTTMFGSOP10.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    6
+  ],
+  "sources": [
+    "SOP  Manufacturing Mono Block III UTTMFGSOP10.pdf (page 6)"
+  ],
+  "error": "",
+  "table": "--- Page 6 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Vendor | Raw Materials | Material Receipt and Incoming Quality Check | Quality Inspection | Approved Materials | Production Department |\n| Production Planning | Production Order (PO), Billof Materials (BOM), Forecast | Production Order Creation and Material Planning | ERP System, Alert for Critical Shortages (Andon as alternative) | Production Order, Material Pick Slip | Production Supervisor |\n| Stores | Store issue slip | Material Issue | ERP System | Issued Materials | Production Operator |\n| Production Operator | Issued Materials, Production Work instructions, Checklist | Assembly, Testing, Calibration, EOL Testing | Standard Operating Procedures, Production Work instructions | Assembled and Tested Units | Quality Engineer |\n| Quality Engineer | Assembled and Tested Units | Quality Check | QA Inspection Report, Functional Test report | Finished Product | Customer |\n| Production Supervisor | Finished Product | Close Production Order | ERP System | Closed Production Order, FG (Finished Goods) | Stores |"
+}

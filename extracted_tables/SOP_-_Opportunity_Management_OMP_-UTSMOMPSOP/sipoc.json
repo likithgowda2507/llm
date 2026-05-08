@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP - Opportunity Management (OMP)-UTSMOMPSOP.pdf",
+  "table_type": "sipoc",
+  "pages": [
+    7
+  ],
+  "sources": [
+    "SOP - Opportunity Management (OMP)-UTSMOMPSOP.pdf (page 7)"
+  ],
+  "error": "",
+  "table": "--- Page 7 ---\n| Supplier | Input | Process | Control | Output | Customer |\n| --- | --- | --- | --- | --- | --- |\n| Lead management team | Client needs | Qualify Lead | 1. Meeting notes review 2. Review of RFQ/RFP/Email with requirements | Qualified Lead details | Deal Owner |\n| Deal Owner | Client needs RFQ/RFP/Emails | Need analysis | 1. Manager review for accuracy and completeness | Prospect\u2019s needs, pain points and desired outcomes documented | Deal Owner/Solution Owner |\n| Deal Owner | Client needs RFQ/RFP/Emails Meeting notes | Value Proposition | 1.Proposal checklist/ guidelines 2.Idea review sessions | 1. Draft Proposal with executive summary 2. Budget & Timeline information | Solution Owner/Proposal development team |\n| Deal Owner Solution Owner | 1. Draft proposal 2. Budget information 3. Client needs 4. Response timeline | Proposal Preparation | 1.Proposal review 2. Pricing approval 3. Legal review 4. Proposal ID creation | Approved Proposal | Customer |\n| Deal Owner Legal team Finance team | 1. Client Feedback 2. Submitted Proposal | Negotiation | 1.Negotiation guidelines 2. Approvals for discounts and terms | 1. Revised proposal 2. Agreed terms | Customer Legal and finance teams |"
+}

@@ -1,0 +1,24 @@
+{
+  "pdf": "SOP Manufacturing 1010BC UTMFGSOP09.pdf",
+  "output_folder": "D:\\Downloads\\demo--master\\demo--master\\demo--master\\llm-main\\llm-main\\llm-main\\llm-main\\llm\\extracted_tables\\SOP_Manufacturing_1010BC_UTMFGSOP09",
+  "tables": {
+    "raci": {
+      "pages": [
+        5
+      ],
+      "sources": [
+        "SOP Manufacturing 1010BC UTMFGSOP09.pdf (page 5)"
+      ],
+      "error": "",
+      "has_table": true
+    },
+    "sipoc": {
+      "pages": [],
+      "sources": [
+        "SOP Manufacturing 1010BC UTMFGSOP09.pdf"
+      ],
+      "error": "No table extracted from the document.",
+      "has_table": false
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pdf": "SOP- Infrastructure Support Process.pdf",
+  "table_type": "raci",
+  "pages": [
+    5
+  ],
+  "sources": [
+    "SOP- Infrastructure Support Process.pdf (page 5)"
+  ],
+  "error": "",
+  "table": "--- Page 5 ---\n| Activity | Responsible | Accountable | Consulted | Informed |\n| --- | --- | --- | --- | --- |\n| Incident Detection and Logging | Monitoring Tool, Helpdesk System | L1 Support | Lead | Project Manager |\n| Initial investigation and Basic Troubleshooting | L1 Support | Lead | L2 Support | Project Manager |\n| Escalation to L2 | L1 Support | Lead | -- | L2 Support, Project Manager |\n| Advanced Troubleshooting | L2 Support | Lead | L3 Support | Project Manager |"
+}
